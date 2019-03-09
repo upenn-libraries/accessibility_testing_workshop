@@ -4,8 +4,7 @@ This repo contains all of the materials for the Library Technologies Best Practi
 
 ### Workshop materials
 
-* Slides on GitPitch
-  * TODO: populate
+* [Slides](https://gitpitch.com/upenn-libraries/accessibility_testing_workshop/outline#/) on GitPitch
 
 ### Accessibility learning resources
 
