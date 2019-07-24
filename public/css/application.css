@@ -26,12 +26,10 @@ nav li {
   margin: 0px 5px;
 }
 
-.lunch-menu {
-  span {
-    font-style: italic;
-  }
+.lunch-menu span {
+  font-style: italic;
+}
 
-  .vitamins {
-    color: #FF0000;
-  }
+.lunch-menu .vitamins {
+  color: #FF0000;
 }
