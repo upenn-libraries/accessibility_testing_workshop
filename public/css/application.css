@@ -25,3 +25,13 @@ nav li {
   border: 1px #000000 solid;
   margin: 0px 5px;
 }
+
+.lunch-menu {
+  span {
+    font-style: italic; 
+  }
+
+  .vitamins {
+    color: #FF0000;
+  }
+}
