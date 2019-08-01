@@ -1,6 +1,6 @@
 ## Logistics
 
-* Date/time: TBD
+* Date/time: November 14, 2019 @ 10am - 2pm
 * Light snacks provided
 
 ## Outline
